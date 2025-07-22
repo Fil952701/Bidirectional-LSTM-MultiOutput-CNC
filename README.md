@@ -21,11 +21,11 @@ The system issues early warnings to operators via Maestro Active (a production G
 
 ## Technologies Used
 
-- **Programming Language:** Python 3
-- **Frameworks & Libraries:** TensorFlow, Keras, NumPy, Pandas, Flask
-- **AI Components:** Bidirectional LSTM, Attention Mechanism, Adapter Layers, Transfer Learning
+- **Programming Language:** Python
+- **Frameworks & Libraries:** TensorFlow, Keras, NumPy, Pandas, PyTorch, Sckit-learn, Flask API, ReSTful
+- **AI Components:** Bidirectional LSTM, Attention Mechanism, Adapter Layers, Transfer Learning, Fine-tuning
 - **Deployment:** Flask REST API (6 endpoints: 1 GET, 5 POST)
-- **Packaging:** Virtual environment + integrated executable for Maestro Active plugin
+- **Packaging:** Virtual environment Venv + integrated executable for Maestro Active plugin
 
 ---
 
@@ -49,7 +49,7 @@ The system issues early warnings to operators via Maestro Active (a production G
 
 ---
 
-## Folder Structure (example)
+## Folder Structure
 
 ```
 /docs/                      → project documentation
