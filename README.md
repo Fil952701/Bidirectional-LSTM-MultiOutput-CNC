@@ -53,10 +53,7 @@ The system issues early warnings to operators via Maestro Active (a production G
 
 ```
 /docs/                      → project documentation
-/training/                  → dataset generation & preprocessing scripts
-/model/                     → model architecture & training code
-/flask_server/              → REST API backend
-/maestro_plugin/            → integration build for Maestro Active
+LICENSE.md                  → project license
 README.md                   → project overview
 ```
 
